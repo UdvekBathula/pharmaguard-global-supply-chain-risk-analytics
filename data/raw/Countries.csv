@@ -1,0 +1,31 @@
+country_code,country_name,region,continent,risk_level,gdp_category,pharma_market_size,regulatory_strength,latitude,longitude
+IND,India,Asia,Asia,Low,Lower Middle Income,Large,Moderate,20.5937,78.9629
+USA,United States,North America,North America,Low,High Income,Large,Strong,37.0902,-95.7129
+DEU,Germany,Europe,Europe,Low,High Income,Large,Strong,51.1657,10.4515
+CHE,Switzerland,Europe,Europe,Low,High Income,Medium,Strong,46.8182,8.2275
+FRA,France,Europe,Europe,Low,High Income,Large,Strong,46.2276,2.2137
+GBR,United Kingdom,Europe,Europe,Low,High Income,Large,Strong,55.3781,-3.436
+CHN,China,Asia,Asia,Medium,Upper Middle Income,Large,Moderate,35.8617,104.1954
+JPN,Japan,Asia,Asia,Low,High Income,Large,Strong,36.2048,138.2529
+KOR,South Korea,Asia,Asia,Low,High Income,Large,Strong,35.9078,127.7669
+ARE,United Arab Emirates,Middle East,Asia,Medium,High Income,Medium,Moderate,23.4241,53.8478
+BRA,Brazil,South America,South America,Medium,Upper Middle Income,Large,Moderate,-14.235,-51.9253
+MEX,Mexico,North America,North America,Medium,Upper Middle Income,Large,Moderate,23.6345,-102.5528
+IDN,Indonesia,Asia,Asia,Medium,Lower Middle Income,Large,Moderate,-0.7893,113.9213
+VNM,Vietnam,Asia,Asia,Medium,Lower Middle Income,Medium,Moderate,14.0583,108.2772
+AUS,Australia,Oceania,Oceania,Low,High Income,Medium,Strong,-25.2744,133.7751
+CAN,Canada,North America,North America,Low,High Income,Large,Strong,56.1304,-106.3468
+SAU,Saudi Arabia,Middle East,Asia,Low,High Income,Medium,Strong,23.8859,45.0792
+NGA,Nigeria,Africa,Africa,High,Lower Middle Income,Medium,Weak,9.082,8.6753
+KEN,Kenya,Africa,Africa,High,Lower Middle Income,Medium,Weak,-0.0236,37.9062
+ZAF,South Africa,Africa,Africa,Medium,Upper Middle Income,Large,Moderate,-30.5595,22.9375
+EGY,Egypt,Africa,Africa,Medium,Lower Middle Income,Medium,Moderate,26.8206,30.8025
+TUR,Turkey,Europe/Asia,Asia,Medium,Upper Middle Income,Large,Moderate,38.9637,35.2433
+NLD,Netherlands,Europe,Europe,Low,High Income,Large,Strong,52.1326,5.2913
+SGP,Singapore,Asia,Asia,Low,High Income,Medium,Strong,1.3521,103.8198
+PAN,Panama,North America,North America,Medium,Upper Middle Income,Small,Moderate,8.538,-80.7821
+IRL,Ireland,Europe,Europe,Low,High Income,Large,Strong,53.4129,-8.2439
+BEL,Belgium,Europe,Europe,Low,High Income,Medium,Strong,50.5039,4.4699
+ITA,Italy,Europe,Europe,Low,High Income,Large,Strong,41.8719,12.5674
+ESP,Spain,Europe,Europe,Low,High Income,Large,Strong,40.4637,-3.7492
+THA,Thailand,Asia,Asia,Medium,Upper Middle Income,Medium,Moderate,15.87,100.9925

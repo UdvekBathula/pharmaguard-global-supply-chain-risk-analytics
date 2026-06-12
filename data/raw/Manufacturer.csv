@@ -1,0 +1,41 @@
+manufacturer_id,manufacturer_name,country,year_established,company_type,gmp_certified,risk_score
+M001,Sun Pharma,India,1983,Generic,Yes,15
+M002,Cipla,India,1935,Generic,Yes,18
+M003,Dr. Reddy's Laboratories,India,1984,Generic,Yes,14
+M004,Lupin,India,1968,Generic,Yes,16
+M005,Aurobindo Pharma,India,1986,Generic,Yes,20
+M006,Zydus Lifesciences,India,1952,Generic,Yes,17
+M007,Glenmark Pharmaceuticals,India,1977,Generic,Yes,19
+M008,Torrent Pharmaceuticals,India,1959,Generic,Yes,18
+M009,Biocon,India,1978,Biotech,Yes,12
+M010,Alkem Laboratories,India,1973,Generic,Yes,17
+M011,Bayer,Germany,1863,Multinational,Yes,5
+M012,Boehringer Ingelheim,Germany,1885,Multinational,Yes,6
+M013,Merck KGaA,Germany,1668,Multinational,Yes,4
+M014,Fresenius Kabi,Germany,1912,Branded,Yes,8
+M015,STADA Arzneimittel,Germany,1895,Generic,Yes,10
+M016,Roche,Switzerland,1896,Multinational,Yes,3
+M017,Novartis,Switzerland,1996,Multinational,Yes,4
+M018,Lonza,Switzerland,1897,Biotech,Yes,5
+M019,Basilea Pharmaceutica,Switzerland,2000,Biotech,Yes,7
+M020,Vifor Pharma,Switzerland,1872,Branded,Yes,8
+M021,Pfizer,USA,1849,Multinational,Yes,3
+M022,Johnson & Johnson,USA,1886,Multinational,Yes,4
+M023,Merck & Co.,USA,1891,Multinational,Yes,5
+M024,AbbVie,USA,2013,Biotech,Yes,4
+M025,Eli Lilly,USA,1876,Multinational,Yes,5
+M026,Amgen,USA,1980,Biotech,Yes,4
+M027,GSK,United Kingdom,2000,Multinational,Yes,4
+M028,AstraZeneca,United Kingdom,1999,Multinational,Yes,4
+M029,Hikma Pharmaceuticals,United Kingdom,1978,Generic,Yes,9
+M030,Indivior,United Kingdom,2014,Branded,Yes,8
+M031,Sanofi,France,1973,Multinational,Yes,5
+M032,Servier,France,1954,Branded,Yes,7
+M033,Pierre Fabre,France,1962,Branded,Yes,8
+M034,Ipsen,France,1929,Biotech,Yes,7
+M035,Takeda,Japan,1781,Multinational,Yes,3
+M036,Astellas Pharma,Japan,2005,Multinational,Yes,4
+M037,Daiichi Sankyo,Japan,2005,Multinational,Yes,5
+M038,Eisai,Japan,1941,Branded,Yes,6
+M039,Sino Biopharmaceutical,China,2000,Biotech,Yes,12
+M040,Shanghai Pharmaceuticals,China,1994,Multinational,Yes,14

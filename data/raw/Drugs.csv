@@ -1,0 +1,31 @@
+drug_id,drug_name,category,therapeutic_class,cold_chain_required,storage_temp,standard_market_price,manufacturer_type
+D001,Insulin,Diabetes,Hormone,Yes,4,120,Branded
+D002,Semaglutide,Diabetes,GLP-1 Receptor Agonist,Yes,4,350,Branded
+D003,Metformin,Diabetes,Biguanide,No,25,15,Generic
+D004,Glimepiride,Diabetes,Sulfonylurea,No,25,18,Generic
+D005,Amoxicillin,Antibiotic,Penicillin,No,25,25,Generic
+D006,Ciprofloxacin,Antibiotic,Fluoroquinolone,No,25,35,Generic
+D007,Azithromycin,Antibiotic,Macrolide,No,25,30,Branded
+D008,Doxycycline,Antibiotic,Tetracycline,No,25,28,Generic
+D009,Paracetamol,Pain Relief,Analgesic,No,25,10,Generic
+D010,Ibuprofen,Pain Relief,NSAID,No,25,12,Generic
+D011,Diclofenac,Pain Relief,NSAID,No,25,18,Branded
+D012,Aspirin,Cardiovascular,Antiplatelet,No,25,14,Generic
+D013,Atorvastatin,Cardiovascular,Statin,No,25,40,Branded
+D014,Clopidogrel,Cardiovascular,Antiplatelet,No,25,55,Branded
+D015,Amlodipine,Cardiovascular,Calcium Channel Blocker,No,25,22,Generic
+D016,Tamoxifen,Oncology,Hormonal Therapy,No,25,180,Branded
+D017,Imatinib,Oncology,Tyrosine Kinase Inhibitor,No,25,500,Branded
+D018,Cyclophosphamide,Oncology,Alkylating Agent,No,25,420,Generic
+D019,Paclitaxel,Oncology,Chemotherapy,No,25,600,Branded
+D020,Influenza Vaccine,Vaccine,Viral Vaccine,Yes,4,60,Branded
+D021,Hepatitis B Vaccine,Vaccine,Viral Vaccine,Yes,4,80,Branded
+D022,COVID-19 Vaccine,Vaccine,mRNA Vaccine,Yes,4,100,Branded
+D023,Rabies Vaccine,Vaccine,Viral Vaccine,Yes,4,90,Branded
+D024,Oseltamivir,Antiviral,Neuraminidase Inhibitor,No,25,75,Branded
+D025,Acyclovir,Antiviral,Nucleoside Analog,No,25,45,Generic
+D026,Tenofovir,Antiviral,Antiretroviral,No,25,110,Generic
+D027,Lopinavir,Antiviral,Protease Inhibitor,No,25,130,Branded
+D028,Omeprazole,Gastrointestinal,Proton Pump Inhibitor,No,25,20,Generic
+D029,Pantoprazole,Gastrointestinal,Proton Pump Inhibitor,No,25,24,Branded
+D030,Adalimumab,Immunology,Monoclonal Antibody,Yes,4,850,Branded
